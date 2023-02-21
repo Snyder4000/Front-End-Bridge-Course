@@ -22,6 +22,8 @@ foobar.pluralize('word')
 # returns 'geese'
 foobar.pluralize('goose')
 
+--Erwin was here!
+
 # returns 'phenomenon'
 foobar.singularize('phenomena')
 ```
